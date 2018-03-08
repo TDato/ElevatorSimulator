@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TimeSystem>
+    <time id ="1">
+        <peopleperminute>5</peopleperminute>
+          <duration>900000</duration>
+    </time>
+</TimeSystem>

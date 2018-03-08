@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BuildingStructure>
+    <building id ="1">
+        <elevator>4</elevator>
+          <floor>20</floor>
+    </building>
+</BuildingStructure>

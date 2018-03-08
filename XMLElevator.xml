@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ElevatorSystem>
+    <elevator id ="1">
+        <timeperfloor>1000</timeperfloor>
+          <maxriders>10</maxriders>
+          <maxidle>10000</maxidle>
+    </elevator>
+</ElevatorSystem>
